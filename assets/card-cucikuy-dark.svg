@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="292" viewBox="0 0 600 292" role="img" aria-label="CuciKuy · Laundry POS: Multi-tenant SaaS for laundry shops: owner and cashier roles, branches, and subscription tiers enforced in the API. One codebase ships to web, Android, and desktop.">
+<style>.pulse{animation:p 2.4s ease-in-out infinite}@keyframes p{50%{opacity:.25}}</style>
+<defs>
+<pattern id="d" width="18" height="18" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1" fill="#1c2128"/></pattern>
+<linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#3fb950"/><stop offset="1" stop-color="#3fb950" stop-opacity="0"/></linearGradient>
+<clipPath id="c"><rect x="1" y="1" width="598" height="290" rx="14"/></clipPath>
+</defs>
+<g clip-path="url(#c)">
+<rect width="600" height="292" fill="#161b22"/>
+<rect x="370" width="230" height="292" fill="url(#d)"/>
+<rect width="600" height="3" fill="url(#g)"/>
+</g>
+<rect x="1" y="1" width="598" height="290" rx="14" fill="none" stroke="#30363d" stroke-width="1.5"/>
+<g transform="translate(520 30)"><rect x="0" y="0" width="44" height="50" rx="7" fill="none" stroke="#3fb950" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/><line x1="0" y1="12" x2="44" y2="12" fill="none" stroke="#3fb950" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/><circle cx="8" cy="6" r="1.6" fill="#3fb950"/><circle cx="22" cy="31" r="12" fill="none" stroke="#3fb950" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/><path d="M14 33 q4 -5 8 0 t8 0" fill="none" stroke="#3fb950" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><animateTransform attributeName="transform" type="rotate" from="0 22 31" to="360 22 31" dur="4s" repeatCount="indefinite"/></path></g>
+<circle class="pulse" cx="38" cy="45" r="4.5" fill="#3fb950"/>
+<text x="52" y="50" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="14" fill="#8b949e">Private · demo on request</text>
+<text x="32" y="88" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="27" font-weight="700" fill="#e6edf3">CuciKuy · Laundry POS</text>
+<text y="126" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="17" fill="#8b949e"><tspan x="32" dy="0">Multi-tenant SaaS for laundry shops: owner and cashier</tspan><tspan x="32" dy="25">roles, branches, and subscription tiers enforced in the</tspan><tspan x="32" dy="25">API. One codebase ships to web, Android, and desktop.</tspan></text>
+<rect x="32" y="226" width="62" height="30" rx="15" fill="#21262d"/><text x="63" y="245.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13.5" fill="#c9d1d9">React</text><rect x="102" y="226" width="71" height="30" rx="15" fill="#21262d"/><text x="138" y="245.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13.5" fill="#c9d1d9">NestJS</text><rect x="181" y="226" width="103" height="30" rx="15" fill="#21262d"/><text x="233" y="245.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13.5" fill="#c9d1d9">PostgreSQL</text><rect x="292" y="226" width="95" height="30" rx="15" fill="#21262d"/><text x="340" y="245.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13.5" fill="#c9d1d9">Capacitor</text><rect x="395" y="226" width="62" height="30" rx="15" fill="#21262d"/><text x="426" y="245.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13.5" fill="#c9d1d9">Tauri</text><rect x="466" y="226" width="87" height="30" rx="15" fill="#21262d"/><text x="509" y="245.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13.5" fill="#c9d1d9">Midtrans</text>
+</svg>

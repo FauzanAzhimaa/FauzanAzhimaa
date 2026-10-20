@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-label="Email me at fauzanazhm22@gmail.com">
+<style>.cur{animation:b 1s steps(1) infinite}@keyframes b{50%{opacity:0}}
+.arrow{animation:n 1.8s ease-in-out infinite}@keyframes n{50%{transform:translateX(6px)}}</style>
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#1a7f37" stop-opacity=".16"/><stop offset=".7" stop-color="#1a7f37" stop-opacity="0"/></linearGradient>
+<clipPath id="c"><rect x="1" y="1" width="1198" height="148" rx="14"/></clipPath></defs>
+<g clip-path="url(#c)"><rect width="1200" height="150" fill="#f6f8fa"/><rect width="1200" height="150" fill="url(#g)"/></g>
+<rect x="1" y="1" width="1198" height="148" rx="14" fill="none" stroke="#d0d7de" stroke-width="1.5"/>
+<text x="40" y="62" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="28" font-weight="700" fill="#1f2328">Have a project in mind, or want a demo?</text>
+<text x="40" y="104" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="19" fill="#59636e"><tspan fill="#1a7f37">$ </tspan>mail <tspan fill="#1f2328">fauzanazhm22@gmail.com</tspan><tspan class="cur" fill="#1a7f37"> _</tspan></text>
+<g transform="translate(990 51)">
+<rect width="170" height="48" rx="24" fill="#1a7f37"/>
+<path transform="translate(20 13) scale(0.9166666666666666)" fill="#ffffff" d="M24 5.457v13.909c0 .904-.732 1.636-1.636 1.636h-3.819V11.73L12 16.64l-6.545-4.91v9.273H1.636A1.636 1.636 0 0 1 0 19.366V5.457c0-2.023 2.309-3.178 3.927-1.964L5.455 4.64 12 9.548l6.545-4.91 1.528-1.145C21.69 2.28 24 3.434 24 5.457z"/>
+<text x="54" y="30.5" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#ffffff">Email me</text>
+<g class="arrow"><path d="M138 24 h12 m-5 -5 l5 5 l-5 5" stroke="#ffffff" stroke-width="2.2" fill="none" stroke-linecap="round" stroke-linejoin="round"/></g>
+</g>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="292" viewBox="0 0 600 292" role="img" aria-label="Waste Vision: CNN that rates an area as clean, light pile, or heavy pile, shows why with a Grad-CAM heatmap, and ranks locations by how urgently they need cleanup.">
+<style>.pulse{animation:p 2.4s ease-in-out infinite}@keyframes p{50%{opacity:.25}}</style>
+<defs>
+<pattern id="d" width="18" height="18" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1" fill="#eaeef2"/></pattern>
+<linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#1a7f37"/><stop offset="1" stop-color="#1a7f37" stop-opacity="0"/></linearGradient>
+<clipPath id="c"><rect x="1" y="1" width="598" height="290" rx="14"/></clipPath>
+</defs>
+<g clip-path="url(#c)">
+<rect width="600" height="292" fill="#f6f8fa"/>
+<rect x="370" width="230" height="292" fill="url(#d)"/>
+<rect width="600" height="3" fill="url(#g)"/>
+</g>
+<rect x="1" y="1" width="598" height="290" rx="14" fill="none" stroke="#d0d7de" stroke-width="1.5"/>
+<g transform="translate(520 30)"><path d="M0 12 V4 a4 4 0 0 1 4 -4 H12 M32 0 H40 a4 4 0 0 1 4 4 V12 M44 38 V46 a4 4 0 0 1 -4 4 H32 M12 50 H4 a4 4 0 0 1 -4 -4 V38" fill="none" stroke="#1a7f37" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/><rect x="11" y="16" width="22" height="18" rx="3" fill="none" stroke="#1a7f37" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/><line x1="4" y1="10" x2="40" y2="10" stroke="#1a7f37" stroke-width="2" opacity=".8"><animate attributeName="y1" values="8;42;8" dur="2.6s" repeatCount="indefinite"/><animate attributeName="y2" values="8;42;8" dur="2.6s" repeatCount="indefinite"/></line></g>
+<circle class="pulse" cx="38" cy="45" r="4.5" fill="#1a7f37"/>
+<text x="52" y="50" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="14" fill="#59636e">Open source  ↗</text>
+<text x="32" y="88" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="27" font-weight="700" fill="#1f2328">Waste Vision</text>
+<text y="126" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="17" fill="#59636e"><tspan x="32" dy="0">CNN that rates an area as clean, light pile, or heavy</tspan><tspan x="32" dy="25">pile, shows why with a Grad-CAM heatmap, and ranks</tspan><tspan x="32" dy="25">locations by how urgently they need cleanup.</tspan></text>
+<rect x="32" y="226" width="103" height="30" rx="15" fill="#eaeef2"/><text x="84" y="245.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13.5" fill="#31363c">TensorFlow</text><rect x="143" y="226" width="62" height="30" rx="15" fill="#eaeef2"/><text x="174" y="245.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13.5" fill="#31363c">Keras</text><rect x="214" y="226" width="87" height="30" rx="15" fill="#eaeef2"/><text x="257" y="245.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13.5" fill="#31363c">Grad-CAM</text><rect x="308" y="226" width="54" height="30" rx="15" fill="#eaeef2"/><text x="336" y="245.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13.5" fill="#31363c">YOLO</text><rect x="371" y="226" width="62" height="30" rx="15" fill="#eaeef2"/><text x="402" y="245.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13.5" fill="#31363c">Flask</text><rect x="441" y="226" width="71" height="30" rx="15" fill="#eaeef2"/><text x="476" y="245.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13.5" fill="#31363c">Docker</text>
+</svg>
