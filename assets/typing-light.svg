@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="54" viewBox="0 0 900 54" role="img" aria-label="Shipping a SaaS laundry POS with React + NestJS; Training CNNs to spot waste piles, explained with Grad-CAM; Wiring ESP32 nodes over LoRa to control a water gate; Watching servers with a Wazuh SIEM lab">
+<style>
+@keyframes c0{0%{width:0;animation-timing-function:steps(47,end)}9.000%{width:620.4px}19.500%{width:620.4px;animation-timing-function:steps(47,end)}22.500%{width:0}100%{width:0}}
+#r0{animation:c0 20.0s -2s infinite}
+@keyframes m0{0%{transform:translateX(0px);animation-timing-function:steps(47,end)}9.000%{transform:translateX(620.4px)}19.500%{transform:translateX(620.4px);animation-timing-function:steps(47,end)}22.500%{transform:translateX(0px)}100%{transform:translateX(0px)}}
+@keyframes v0{0%{opacity:1}22.510%{opacity:0}100%{opacity:0}}
+#k0{animation:m0 20.0s -2s infinite,v0 20.0s -2s steps(1) infinite}
+@keyframes c1{0%{width:0}25.000%{width:0;animation-timing-function:steps(58,end)}34.000%{width:765.6px}44.500%{width:765.6px;animation-timing-function:steps(58,end)}47.500%{width:0}100%{width:0}}
+#r1{animation:c1 20.0s -2s infinite}
+@keyframes m1{0%{transform:translateX(0px)}25.000%{transform:translateX(0px);animation-timing-function:steps(58,end)}34.000%{transform:translateX(765.6px)}44.500%{transform:translateX(765.6px);animation-timing-function:steps(58,end)}47.500%{transform:translateX(0px)}100%{transform:translateX(0px)}}
+@keyframes v1{0%{opacity:0}25.000%{opacity:1}47.510%{opacity:0}100%{opacity:0}}
+#k1{animation:m1 20.0s -2s infinite,v1 20.0s -2s steps(1) infinite}
+@keyframes c2{0%{width:0}50.000%{width:0;animation-timing-function:steps(52,end)}59.000%{width:686.4px}69.500%{width:686.4px;animation-timing-function:steps(52,end)}72.500%{width:0}100%{width:0}}
+#r2{animation:c2 20.0s -2s infinite}
+@keyframes m2{0%{transform:translateX(0px)}50.000%{transform:translateX(0px);animation-timing-function:steps(52,end)}59.000%{transform:translateX(686.4px)}69.500%{transform:translateX(686.4px);animation-timing-function:steps(52,end)}72.500%{transform:translateX(0px)}100%{transform:translateX(0px)}}
+@keyframes v2{0%{opacity:0}50.000%{opacity:1}72.510%{opacity:0}100%{opacity:0}}
+#k2{animation:m2 20.0s -2s infinite,v2 20.0s -2s steps(1) infinite}
+@keyframes c3{0%{width:0}75.000%{width:0;animation-timing-function:steps(38,end)}84.000%{width:501.6px}94.500%{width:501.6px;animation-timing-function:steps(38,end)}97.500%{width:0}100%{width:0}}
+#r3{animation:c3 20.0s -2s infinite}
+@keyframes m3{0%{transform:translateX(0px)}75.000%{transform:translateX(0px);animation-timing-function:steps(38,end)}84.000%{transform:translateX(501.6px)}94.500%{transform:translateX(501.6px);animation-timing-function:steps(38,end)}97.500%{transform:translateX(0px)}100%{transform:translateX(0px)}}
+@keyframes v3{0%{opacity:0}75.000%{opacity:1}97.510%{opacity:0}100%{opacity:0}}
+#k3{animation:m3 20.0s -2s infinite,v3 20.0s -2s steps(1) infinite}
+</style>
+<defs><clipPath id="p0"><rect id="r0" x="24" y="0" width="0" height="54"/></clipPath><clipPath id="p1"><rect id="r1" x="24" y="0" width="0" height="54"/></clipPath><clipPath id="p2"><rect id="r2" x="24" y="0" width="0" height="54"/></clipPath><clipPath id="p3"><rect id="r3" x="24" y="0" width="0" height="54"/></clipPath></defs>
+<text clip-path="url(#p0)" x="24" y="35" textLength="620.4" lengthAdjust="spacingAndGlyphs" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="21" fill="#1f2328">Shipping a SaaS laundry POS with React + NestJS</text>
+<g id="k0"><rect x="26" y="17" width="11" height="24" fill="#1a7f37" opacity=".85"/></g>
+<text clip-path="url(#p1)" x="24" y="35" textLength="765.6" lengthAdjust="spacingAndGlyphs" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="21" fill="#1f2328">Training CNNs to spot waste piles, explained with Grad-CAM</text>
+<g id="k1"><rect x="26" y="17" width="11" height="24" fill="#1a7f37" opacity=".85"/></g>
+<text clip-path="url(#p2)" x="24" y="35" textLength="686.4" lengthAdjust="spacingAndGlyphs" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="21" fill="#1f2328">Wiring ESP32 nodes over LoRa to control a water gate</text>
+<g id="k2"><rect x="26" y="17" width="11" height="24" fill="#1a7f37" opacity=".85"/></g>
+<text clip-path="url(#p3)" x="24" y="35" textLength="501.6" lengthAdjust="spacingAndGlyphs" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="21" fill="#1f2328">Watching servers with a Wazuh SIEM lab</text>
+<g id="k3"><rect x="26" y="17" width="11" height="24" fill="#1a7f37" opacity=".85"/></g>
+</svg>

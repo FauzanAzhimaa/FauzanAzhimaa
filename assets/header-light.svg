@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Fauzan Azhima, Information Technology student">
+<style>
+.tr{fill:none;stroke:#1a7f37;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;opacity:.85}
+.nd{fill:#ffffff;stroke:#1a7f37;stroke-width:2;transform-box:fill-box;transform-origin:center;animation:pulse 2.4s ease-in-out infinite}
+.in{}
+.cur{animation:blink 1s steps(1) infinite}
+.led{animation:led 1.6s ease-in-out infinite}
+@keyframes draw{to{stroke-dashoffset:0}}
+@keyframes pulse{0%,100%{transform:scale(1);opacity:1}50%{transform:scale(1.6);opacity:.5}}
+@keyframes rise{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
+@keyframes blink{50%{opacity:0}}
+@keyframes led{0%,100%{opacity:.25}50%{opacity:1}}
+</style>
+<defs>
+<pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#eaeef2"/></pattern>
+<linearGradient id="fade" x1="0" x2="1"><stop offset="0" stop-color="#ffffff"/><stop offset=".55" stop-color="#ffffff" stop-opacity="0"/></linearGradient>
+<clipPath id="card"><rect x="1" y="1" width="1198" height="298" rx="14"/></clipPath>
+</defs>
+<g clip-path="url(#card)">
+<rect width="1200" height="300" fill="#ffffff"/>
+<rect width="1200" height="300" fill="url(#dots)"/>
+<rect width="1200" height="300" fill="url(#fade)"/>
+<path class="tr" style="animation-delay:0.00s" d="M 780 62 H 850 V 120 H 905"/>
+<path class="tr" style="animation-delay:0.15s" d="M 780 238 H 860 V 180 H 905"/>
+<path class="tr" style="animation-delay:0.30s" d="M 1150 60 H 1060 V 110 H 1015"/>
+<path class="tr" style="animation-delay:0.45s" d="M 1150 240 H 1080 V 190 H 1015"/>
+<path class="tr" style="animation-delay:0.60s" d="M 960 30 V 95"/>
+<path class="tr" style="animation-delay:0.75s" d="M 960 270 V 205"/>
+<rect x="905" y="100" width="110" height="100" rx="10" fill="#f6f8fa" stroke="#1a7f37" stroke-width="2"/>
+<rect x="913" y="92" width="6" height="8" rx="1" fill="#59636e"/><rect x="913" y="200" width="6" height="8" rx="1" fill="#59636e"/><rect x="929" y="92" width="6" height="8" rx="1" fill="#59636e"/><rect x="929" y="200" width="6" height="8" rx="1" fill="#59636e"/><rect x="945" y="92" width="6" height="8" rx="1" fill="#59636e"/><rect x="945" y="200" width="6" height="8" rx="1" fill="#59636e"/><rect x="961" y="92" width="6" height="8" rx="1" fill="#59636e"/><rect x="961" y="200" width="6" height="8" rx="1" fill="#59636e"/><rect x="977" y="92" width="6" height="8" rx="1" fill="#59636e"/><rect x="977" y="200" width="6" height="8" rx="1" fill="#59636e"/><rect x="993" y="92" width="6" height="8" rx="1" fill="#59636e"/><rect x="993" y="200" width="6" height="8" rx="1" fill="#59636e"/>
+<text x="960" y="146" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="15" font-weight="700" fill="#1f2328">ESP32</text>
+<text x="960" y="168" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" fill="#59636e">LoRa · Wi-Fi</text>
+<circle class="led" cx="995" cy="118" r="4" fill="#1a7f37"/>
+<circle class="nd" style="animation-delay:0.00s" cx="780" cy="62" r="5"/>
+<circle class="nd" style="animation-delay:0.35s" cx="780" cy="238" r="5"/>
+<circle class="nd" style="animation-delay:0.70s" cx="1150" cy="60" r="5"/>
+<circle class="nd" style="animation-delay:1.05s" cx="1150" cy="240" r="5"/>
+<circle class="nd" style="animation-delay:1.40s" cx="960" cy="30" r="5"/>
+<circle class="nd" style="animation-delay:1.75s" cx="960" cy="270" r="5"/>
+<circle r="3.5" fill="#1a7f37"><animateMotion dur="2.6s" begin="0.0s" repeatCount="indefinite" path="M 780 62 H 850 V 120 H 905"/></circle>
+<circle r="3.5" fill="#1a7f37"><animateMotion dur="3.0s" begin="0.5s" repeatCount="indefinite" path="M 780 238 H 860 V 180 H 905"/></circle>
+<circle r="3.5" fill="#1a7f37"><animateMotion dur="3.4s" begin="1.0s" repeatCount="indefinite" path="M 1150 60 H 1060 V 110 H 1015"/></circle>
+<circle r="3.5" fill="#1a7f37"><animateMotion dur="3.8s" begin="1.5s" repeatCount="indefinite" path="M 1150 240 H 1080 V 190 H 1015"/></circle>
+</g>
+<rect x="1" y="1" width="1198" height="298" rx="14" fill="none" stroke="#d0d7de" stroke-width="2"/>
+<g class="in" style="animation-delay:.1s"><text x="60" y="88" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="18" fill="#1a7f37">~/fauzanazhimaa<tspan fill="#59636e"> $ whoami</tspan><tspan class="cur" fill="#1f2328"> _</tspan></text></g>
+<g class="in" style="animation-delay:.3s"><text x="58" y="160" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="62" font-weight="700" fill="#1f2328" letter-spacing="-1">Fauzan Azhima</text></g>
+<g class="in" style="animation-delay:.5s"><text x="60" y="202" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="22" fill="#59636e">Information Technology · Universitas Jenderal Achmad Yani Yogyakarta</text></g>
+<g class="in" style="animation-delay:.7s"><text x="60" y="246" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="16" fill="#1f2328">full-stack<tspan fill="#1a7f37">  /  </tspan>computer vision<tspan fill="#1a7f37">  /  </tspan>iot<tspan fill="#1a7f37">  /  </tspan>security ops</text></g>
+</svg>
