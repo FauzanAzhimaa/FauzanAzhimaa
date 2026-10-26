@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170" role="img" aria-label="Email me at fauzanazhm22@gmail.com">
+<style>.cur{animation:blink 1s steps(1) infinite}@keyframes blink{50%{opacity:0}}.arrow{animation:n 1.8s ease-in-out infinite}@keyframes n{50%{transform:translateX(6px)}}</style>
+<defs>
+<filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="24"/></filter>
+<pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.1" fill="#ebe4fb"/></pattern>
+<linearGradient id="edge" gradientUnits="userSpaceOnUse" x1="0" x2="1200" y1="0" y2="0">
+<stop offset="0" stop-color="#6d28d9" stop-opacity="0"/><stop offset=".45" stop-color="#7c3aed"/><stop offset=".55" stop-color="#9333ea"/><stop offset="1" stop-color="#6d28d9" stop-opacity="0"/>
+<animateTransform attributeName="gradientTransform" type="translate" values="-1200 0;1200 0" dur="6s" repeatCount="indefinite"/></linearGradient>
+<clipPath id="clip"><rect x="1" y="1" width="1198" height="168" rx="16"/></clipPath>
+<linearGradient id="btn" x1="0" x2="1"><stop offset="0" stop-color="#6d28d9"/><stop offset="1" stop-color="#9333ea"/></linearGradient>
+</defs><g clip-path="url(#clip)"><rect width="1200" height="170" fill="#fbf9ff"/><g filter="url(#blur)" opacity=".20"><ellipse cx="984" cy="42" rx="192" ry="71" fill="#6d28d9"><animateTransform attributeName="transform" type="translate" values="0 0;-72 31;0 0" dur="14s" repeatCount="indefinite"/></ellipse><ellipse cx="744" cy="153" rx="168" ry="59" fill="#9333ea"><animateTransform attributeName="transform" type="translate" values="0 0;84 -26;0 0" dur="17s" repeatCount="indefinite"/></ellipse><ellipse cx="96" cy="8" rx="144" ry="51" fill="#7c3aed" opacity=".6"><animateTransform attributeName="transform" type="translate" values="0 0;60 20;0 0" dur="19s" repeatCount="indefinite"/></ellipse></g><rect width="1200" height="170" fill="url(#dots)" opacity=".8"/><rect width="1200" height="2.5" fill="url(#edge)"/></g><rect x="1" y="1" width="1198" height="168" rx="16" fill="none" stroke="#e3daf8" stroke-width="1.5"/>
+<text x="44" y="72" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="31" font-weight="800" fill="#1e1433" letter-spacing="-.4">Have a project in mind, or want a demo?</text>
+<text x="44" y="116" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="19" fill="#5f5478"><tspan fill="#7c3aed">$ </tspan>mail <tspan fill="#1e1433">fauzanazhm22@gmail.com</tspan><tspan class="cur" fill="#9333ea"> ▍</tspan></text>
+<g transform="translate(968 61)">
+<rect x="-6" y="-6" width="200" height="60" rx="30" fill="#9333ea" opacity=".25"><animate attributeName="opacity" values=".1;.35;.1" dur="2.4s" repeatCount="indefinite"/></rect>
+<rect width="188" height="48" rx="24" fill="url(#btn)"/>
+<path transform="translate(22 13) scale(0.9166666666666666)" fill="#ffffff" d="M24 5.457v13.909c0 .904-.732 1.636-1.636 1.636h-3.819V11.73L12 16.64l-6.545-4.91v9.273H1.636A1.636 1.636 0 0 1 0 19.366V5.457c0-2.023 2.309-3.178 3.927-1.964L5.455 4.64 12 9.548l6.545-4.91 1.528-1.145C21.69 2.28 24 3.434 24 5.457z"/>
+<text x="56" y="30.5" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff">Email me</text>
+<g class="arrow"><path d="M150 24 h14 m-5 -5 l5 5 l-5 5" stroke="#ffffff" stroke-width="2.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/></g>
+</g>
+</svg>
